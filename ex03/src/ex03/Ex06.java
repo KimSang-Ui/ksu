@@ -1,16 +1,9 @@
 package ex03;
 
 public class Ex06 {
-
+	
 	public static void main(String[] args) {
-		System.out.println("a\tb\tc");
-		System.out.println();
-		System.out.println("ddd\beee\b");
-		
-		// "안녕하세요"
-		System.out.println("\"안녕하세요\"");
-		// c:\
-		// c:\
-		System.out.println("c:\\");
+		System.out.println("a\nb\nc\n");
 	}
+
 }

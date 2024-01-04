@@ -1,23 +1,19 @@
 package ex03;
 
-/*
- * int -> char unicode A =>65 65=>A
- * 실수->정수
- * double -> int 소수점을 내려서 형변환됩니다.
- */
 public class Ex08 {
 
+	// 1byte -128 ~ +127
+	
 	public static void main(String[] args) {
-		double d = 85.4d;
-		int score = (int)d;
-		System.out.println("score = "+score);
-		System.out.println("d= "+d);
+		char aa = 'A';
+		System.out.println(aa);
+		int bb = (int) aa;
+		System.out.println(bb);
+		char cc = (char) bb;
+		System.out.println(cc);
 		
-		// 비트 체계가 작은거에서 큰걸로 바꿀때는 자료의 소실이
-		// 없기 때문에 안적어도 자동 형변환 됩니다.		
-		int aa = 10;
-		double ee = aa;
-		System.out.println("aa="+aa);
-		System.out.println("ee="+ee);
+		byte kk = 127;
+		System.out.println(kk+1);		// int형 연산... 
+		System.out.println((byte)(kk+1));	// 오버플로우 8bit 
 	}
 }

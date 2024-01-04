@@ -1,18 +1,22 @@
 package ex03;
 
+
+class AA{
+	public void doA() {
+		System.out.println("doA");
+	}
+}
+
 public class Ex04 {
 
 	public static void main(String[] args) {
-		System.out.print("ln이 없으면 줄바꿈이 안됩니다 ");
-		System.out.println("=======");
-		System.out.println("ln이 있으면 줄바꿈이 됩니다");
-		System.out.print("=========");
+//		Integer i = new Integer(10);
+		System.out.println(Integer.toBinaryString(10));
+		AA a2 = new AA();
+		a2.doA();
 		
-		System.out.println();
-		
-		System.out.println("**********");
-		System.out.print("공부 한다고 다들 고생합니다.\n");
-		System.out.print("잘 될거에요...\n");
-		System.out.println("**********");
+		String a = new String("abcd");
+		System.out.println(a.toUpperCase());
 	}
+	
 }

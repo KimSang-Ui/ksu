@@ -12,10 +12,14 @@ public class Ex01 {
 		System.out.println(10>3);
 		System.out.println(10<=3);
 		
+		System.out.println(10==10);
+		System.out.println(10!=10);
+		
 		int a = 10;
 		int b = 20;
 		
-		System.out.println(10==10);
-		System.out.println(10!=10);
+		System.out.println(a==b);
+		System.out.println(a!=b);
+		
 	}
 }
