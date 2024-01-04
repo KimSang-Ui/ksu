@@ -1,11 +1,11 @@
 package chap03;
 class OperatorEx12 { 
       public static void main(String[] args) { 
-            char c1 = 'a';        // c1���� ���� 'a'�� �ڵ尪�� 97�� ����ȴ�. 
-            char c2 = c1;         // c1�� ����Ǿ� �ִ� ���� c2�� ����ȴ�. 
-            char c3 =' ';         // c3�� �������� �ʱ�ȭ �Ѵ�. 
+            char c1 = 'a';        // c1에는 문자 'a'의 코드값인 97이 저장된다.
+            char c2 = c1;         // c1에 저장되어 있는 값이 c2에 저장된다.
+            char c3 =' ';         // c3를 공백으로 초기화한다.
 
-            int i = c1 + 1;       // 'a'+1 �� 97+1 �� 98
+            int i = c1 + 1;       // 'a'+1 -> 97+1 -> 98
 
             c3 = (char)(c1 + 1); 
             c2++; 
