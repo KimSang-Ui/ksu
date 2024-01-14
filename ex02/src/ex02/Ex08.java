@@ -33,13 +33,13 @@ public class Ex08 {
 	}
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);//scanner 사용
 		
-		System.out.println("숫자 입력");
-		int num1 = scan.nextInt();
+		System.out.println("숫자 입력");// 숫자 입력 출력
+		int num1 = scan.nextInt();//num1을 값을 입력을 받는다
 		
-		System.out.println("숫자 입력");
-		int num2 = scan.nextInt();
+		System.out.println("숫자 입력");// 숫자 입력 출력
+		int num2 = scan.nextInt();//num 2의 값을 입력을 받는다.
 		
 		int result = solution(num1, num2);
 		

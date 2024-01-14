@@ -4,8 +4,9 @@ package ex02;
  */
 public class Ex04 {
     public static void main(String[] args){
-        int num1 = 20;
-        int num2 = 5;
-        System.out.println("몫 = "+num1/num2);
+        int num1 = 20; //num 1 값: 20
+        int num2 = 5; //num 2 값: 5
+        System.out.println("몫 = "+num1/num2);// num 2 나누기 num 1
     }
 }
+// /: 나누기
