@@ -1,6 +1,4 @@
-package org.example.util;
-
-import org.example.mh.Member;
+package org.example.member;
 
 import java.util.Scanner;
 
@@ -18,7 +16,13 @@ public class MyCLI {
         System.out.println("패스워드를 입력 하세요.");
         String password = scan.nextLine();
 
-        return new Member(email,name,addr,password);
+//        return new Member(email,name,addr,password)
+        return Member.builder()
+                .email(email)
+                .password(password)
+                .name(name)
+                .addr(addr)
+                .build();
     }
 
     public Member loginMember(){
@@ -29,6 +33,10 @@ public class MyCLI {
         System.out.println("패스워드를 입력 하세요.");
         String password = scan.nextLine();
 
-        return new Member(email,null,null,password);
+        return Member.builder()
+                .email(email)
+                .password(password)
+                .build();
+//        return new Member(email,null,null,password);
     }
 }

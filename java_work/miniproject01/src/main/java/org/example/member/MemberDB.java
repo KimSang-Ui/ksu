@@ -1,7 +1,6 @@
-package org.example.mh;
+package org.example.member;
 
 import org.example.DBINFO;
-import org.example.util.MyCLI;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -68,7 +67,7 @@ public class MemberDB {
         return false;
     }
 
-    public void login() {
+    public Member login() {
         Member member = cli.loginMember();
         try{
             Connection con
@@ -79,11 +78,15 @@ public class MemberDB {
             pstmt.setString(1, member.getEmail());
             pstmt.setString(2, member.getPassword());
             ResultSet rs = pstmt.executeQuery();
-            
+            if(rs.next()){
+                member.setRole(rs.getString("role"));
+                return member;
+            }
 
 
         }catch (Exception e){
             e.printStackTrace();
         }
+        return null;
     }
 }
