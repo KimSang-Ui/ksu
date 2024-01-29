@@ -4,7 +4,7 @@ import lombok.*;
 
 @Setter
 @Getter // getter 메서드
-@AllArgsConstructor//생성자
+@AllArgsConstructor // 생성자
 @Builder
 @ToString
 public class Member {

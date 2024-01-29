@@ -1,6 +1,6 @@
 package org.example;
 
-import com.mysql.cj.log.Log;
+import org.example.item.ItemDB;
 import org.example.member.Member;
 import org.example.member.MemberDB;
 import org.example.util.Login;
@@ -9,51 +9,60 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         MemberDB md = new MemberDB();
+        ItemDB id = new ItemDB();
 
-        while(true) {
+        while (true) {
 
             int select = 0;
 
-            if(Login.member !=null && Login.getRole().equalsIgnoreCase("admin"))
+            if (Login.member != null && Login.getRole().equalsIgnoreCase("admin"))
                 select = printMenuAdmin();
             else
-                select = printMenu();
+                select = printMenuUesr();
 
             if (select == 1) {
                 md.insert();
-            }
-            else if(select ==2) {
+            } else if (select == 2) {
                 if (!Login.login) {
                     Member dbMember = md.login();
-                    System.out.println("dbMember =" + dbMember);
-                    if(dbMember!=null){
+                    System.out.println("dbMember = " + dbMember);
+                    if (dbMember != null) {
                         Login.login = true;
                         Login.member = dbMember;
                     }
                 } else {
                     System.out.println("이미 로그인하셨습니다.");
                 }
-            }
-            else if(select ==3){
-                if( !Login.login){
-                    System.out.println("로그인 하셔야 로그인 할 수 있습니다.");
-                }else{
+            } else if (select == 3) {
+                if (!Login.login) {
+                    System.out.println("로그인 하셔야 로그아웃 할 수 있습니다.");
+                } else {
                     Login.login = false;
                     Login.member = null;
-                    System.out.println("로그아웃하셨습니다.");
+                    System.out.println("로그아웃 하셨습니다.");
                 }
             }
-            else if(select ==8 && Log.member !=null && Login.getRole().equals)
-                id.insert();
-            else if(select ==6) {
+            else if (select == 7) {
                 System.out.println("종료됩니다.");
                 System.exit(0);
             }
+            else if (select == 8 && Login.member != null && Login.getRole().equalsIgnoreCase("admin")) {
+                try {
+                    id.insert();
+                    System.out.println("상품등록되었습니다.");
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
+            }
+
         }
     }
-    public static int printMenu() {
+    // user 로 로그인 하면 상품 등록 X
+    // admin으로 로그인하면 상품 등록 O, 회원목록
+
+    public static int printMenuUesr() {
         System.out.println("1.회원가입");
         System.out.println("2.로그인");
         System.out.println("3.로그아웃");
@@ -65,6 +74,7 @@ public class Main {
         int menu = scanner.nextInt();
         return menu;
     }
+
     public static int printMenuAdmin() {
         System.out.println("1.회원가입");
         System.out.println("2.로그인");

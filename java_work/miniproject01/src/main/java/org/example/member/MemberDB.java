@@ -2,13 +2,13 @@ package org.example.member;
 
 import org.example.DBINFO;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
+import java.sql.*;
 
 public class MemberDB {
-    private MyCLI cli = new MyCLI();
+    private MemberCLI cli = new MemberCLI();
+
+    // too many connection...
+    // Mysql 실시간 모든 연결...
 
     public void insert() {
         Member member = cli.inputMember();
@@ -16,10 +16,11 @@ public class MemberDB {
         boolean result = findByEmail(member.getEmail());
 
         if(!result) {
+            Connection con = null;
+
             try {
                 // DB 연결하기
-                Connection con
-                        = DriverManager.getConnection(DBINFO.url, DBINFO.user, DBINFO.password);
+                con = DriverManager.getConnection(DBINFO.url, DBINFO.user, DBINFO.password);
 
                 // SQL 구문 작성하고...
                 PreparedStatement pstmt
@@ -41,6 +42,15 @@ public class MemberDB {
             } catch (Exception e) {
                 System.out.println("이쪽으로 온다.");
                 e.printStackTrace();
+            }
+            finally {
+                if(con!=null) {
+                    try {
+                        con.close();
+                    } catch (SQLException e) {
+                        e.printStackTrace();
+                    }
+                }
             }
         }
         else{
@@ -81,9 +91,9 @@ public class MemberDB {
             if(rs.next()){
                 member.setRole(rs.getString("role"));
                 return member;
+            }else{
+                System.out.println("로그인실패 이메일과 패스워드를 확인하세요...");
             }
-
-
         }catch (Exception e){
             e.printStackTrace();
         }
