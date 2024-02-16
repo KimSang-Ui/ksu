@@ -4,9 +4,9 @@ public class Ex03 {
 
 	public static void main(String[] args) {
 	
-		char a = 'a'; //char a의 값은 'a'
+		char a = 'a';
 		
-		for(int i =0; i<26;i++) { //int i = 0, i가 26미만일 동안 i에 1씩 더한다
+		for(int i =0; i<26;i++) {
 			System.out.println(i+"\t"+a++);
 		}
 		

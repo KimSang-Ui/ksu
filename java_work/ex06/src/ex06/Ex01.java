@@ -30,7 +30,7 @@ public class Ex01 {
 	 * 3+""+1 = 31
 	 */
 	public static int solution(int a, int b) {
-		int result1 = Integer.parseInt(a+""+b);//a+""++b:ab
+		int result1 = Integer.parseInt(a+""+b);
 		int result2 = Integer.parseInt(b+""+a);
 		
 		if(result1<result2)

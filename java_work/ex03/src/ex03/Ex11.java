@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Ex11 {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);//scanner 사용
-		String a = sc.next();// a의 문자열을 사용
-		char str[] = a.toCharArray();// a의 값을 문자열로 바꾸고 str에 넣는다.
+		Scanner sc = new Scanner(System.in);
+		String a = sc.next();
+		char str[] = a.toCharArray();
 		char test1 = 'z';
 		char test2 = 'Z';
 		char test3 = 'a';

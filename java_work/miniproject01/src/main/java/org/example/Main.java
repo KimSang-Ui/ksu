@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.Item.ItemDB;
 import org.example.cart.CartDB;
+import org.example.item.ItemDB;
 import org.example.member.Member;
 import org.example.member.MemberDB;
 import org.example.orders.OrderDB;
@@ -10,21 +10,23 @@ import org.example.util.Login;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-        // 회원관리 DB
-        MemberDB md = new MemberDB();
-        // 상품관리 DB
-        ItemDB id = new ItemDB();
-        // 장바구니 관리 DB
-        CartDB cd = new CartDB();
-        // 주문관리 DB
-        OrderDB od = new OrderDB();
-        //선택
-        while (true) {
 
+    // 회원관리 DB
+    public static MemberDB md = new MemberDB();
+    // 상품 관리 DB
+    public static ItemDB id = new ItemDB();
+    // 장바구니 관리 DB
+    public static CartDB cd = new CartDB();
+    // 주문 관리 DB
+    public static OrderDB od = new OrderDB();
+
+    public static void main(String[] args) {
+        // 선택
+        while (true) {
             int select = 0;
 
-            if (Login.member != null && Login.getRole().equalsIgnoreCase("admin"))
+            if (Login.member != null
+                    && Login.getRole().equalsIgnoreCase("admin"))
                 select = printMenuAdmin();
             else
                 select = printMenuUesr();
@@ -57,23 +59,25 @@ public class Main {
                     while (true) {
                         int cartSelect = printMenuCart();
                         if (cartSelect == 1) {
-                            cd.insert();
-                        } else if (cartSelect == 5) {
+                            cd.insert();// 장바구니 만들기
+
+                            // 장바구니 아이템 넣는 로직
+                            // 없는 상품을 선택할시 등록 종료...
+                            // 아니면 상품 보여주면서 계속 상품 등록...
+                            cd.insertItem();
+                        }
+                        else if(cartSelect == 5){
                             System.out.println("장바구니를 종료합니다.");
                             break;
-
                         }
                     }
                 } else {
-                    System.out.println("로그인 하셔야 장바구니 메뉴를 볼 수 있습니다.");
-
-            }
-
-        } else if (select == 7) {
-                System.out.println("종료됩니다.");
+                    System.out.println("로그인하셔야 장바구니 메뉴를 볼수 있습니다.");
+                }
+            } else if (select == 7) {
+                System.out.println("시스템 종료됩니다.");
                 System.exit(0);
-            }
-            else if (select == 8 && Login.member != null && Login.getRole().equalsIgnoreCase("admin")) {
+            } else if (select == 8 && Login.member != null && Login.getRole().equalsIgnoreCase("admin")) {
                 try {
                     id.insert();
                     System.out.println("상품등록되었습니다.");
@@ -85,9 +89,10 @@ public class Main {
 
         }
     }
+
     // user 로 로그인 하면 상품 등록 X
     // admin으로 로그인하면 상품 등록 O, 회원목록
-    public static int printMenuCart(){
+    public static int printMenuCart() {
         System.out.println("1.등록");
         System.out.println("2.수정");
         System.out.println("3.삭제");

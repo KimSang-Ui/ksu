@@ -1,5 +1,6 @@
-package org.example.Item;
+package org.example.item;
 
+import com.mysql.cj.protocol.Resultset;
 import org.example.DBINFO;
 import org.example.util.Login;
 
@@ -58,20 +59,24 @@ public class ItemDB {
             rs = pstmt.executeQuery();
             while (rs.next()) {
                 list.add(
-                        new Item(rs.getLong("item_id"),
-                                rs.getString("reg_time"),
-                                rs.getString("update_time"),
-                                rs.getString("created_by"),
-                                rs.getString("modified_by"),
-                                rs.getString("item_nm"),
-                                rs.getString("item_detail"),
-                                rs.getString("item_sell_status"),
-                                rs.getInt("price"),
-                                rs.getInt("stock_number"))
-
+                    new Item(rs.getLong("item_id"),
+                            rs.getString("reg_time"),
+                            rs.getString("update_time"),
+                            rs.getString("created_by"),
+                            rs.getString("modified_by"),
+                            rs.getString("item_nm"),
+                            rs.getString("item_detail"),
+                            rs.getString("item_sell_status"),
+                            rs.getInt("price"),
+                            rs.getInt("stock_number"))
                 );
             }
-            System.out.println(list);
+            for ( int i =0; i<list.size(); i++) {
+                System.out.print(list.get(i).getItem_id()+"\t");
+                System.out.print(list.get(i).getItem_nm()+"\t");
+                System.out.print(list.get(i).getItem_sell_status()+"\t");
+                System.out.print(list.get(i).getItem_detail()+"\n");
+            }
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
@@ -85,4 +90,3 @@ public class ItemDB {
         }
     }
 }
-

@@ -1,4 +1,4 @@
-package org.example.Item;
+package org.example.item;
 
 import lombok.*;
 

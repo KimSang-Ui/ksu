@@ -19,9 +19,9 @@ class A {
 public class Ex01 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		// Scanner 사용
+		// 입력 받는거
 		int n = scan.nextInt();
-		String result = n % 2 == 0 ? n+" is even" : n+" is odd";//n나누기2를 한 나머지가 0이냐? 참이면 짝수 거짓이면 홀수
-		System.out.println(result);//result 값 출력
+		String result = n % 2 == 0 ? n+" is even" : n+" is odd";
+		System.out.println(result);
 	}
 }
