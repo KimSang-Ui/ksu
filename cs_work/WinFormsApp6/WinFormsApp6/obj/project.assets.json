@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
       "projectName": "WinFormsApp6",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\WinFormsApp6\\WinFormsApp6\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp6\\WinFormsApp6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

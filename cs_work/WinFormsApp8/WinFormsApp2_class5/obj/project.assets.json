@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Students\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\WinFormsApp2_class5.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\WinFormsApp2_class5.csproj",
       "projectName": "WinFormsApp2_class5",
-      "projectPath": "D:\\Students\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\WinFormsApp2_class5.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Students\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\obj\\",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\WinFormsApp2_class5.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\문서\\ksu\\cs_work\\WinFormsApp8\\WinFormsApp2_class5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
