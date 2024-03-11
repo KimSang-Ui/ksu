@@ -108,11 +108,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="choose\Movie1Time.cs">
+    <Compile Include="choose\Movie1TM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="choose\Movie1Time.Designer.cs">
-      <DependentUpon>Movie1Time.cs</DependentUpon>
+    <Compile Include="choose\Movie1TM.Designer.cs">
+      <DependentUpon>Movie1TM.cs</DependentUpon>
     </Compile>
     <Compile Include="database\ChooseDB.cs" />
     <Compile Include="database\TicketDB.cs" />

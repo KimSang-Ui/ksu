@@ -1,6 +1,6 @@
 ﻿namespace 영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.choose
 {
-    partial class Movie1Time
+    partial class Movie1TM
     {
         /// <summary>
         /// Required designer variable.
@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Movie1Time";
+            this.Text = "Movie1TM";
         }
 
         #endregion

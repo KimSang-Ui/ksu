@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace 영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.choose
 {
-    public partial class Movie1Time : Form
+    public partial class Movie1TM : Form
     {
-        public Movie1Time()
+        public Movie1TM()
         {
             InitializeComponent();
         }
