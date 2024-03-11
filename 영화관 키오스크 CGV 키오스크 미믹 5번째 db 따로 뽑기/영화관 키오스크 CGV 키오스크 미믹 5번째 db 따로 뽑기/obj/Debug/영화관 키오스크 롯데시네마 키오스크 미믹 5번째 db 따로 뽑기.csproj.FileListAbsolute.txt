@@ -1,0 +1,34 @@
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기.exe.config
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기.exe
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기.pdb
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Formats.Asn1.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Text.Json.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Formats.Asn1.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Text.Json.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크 롯데시네마 키오스크 미믹 5번째 db 따로 뽑기.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.MainScreen.resources
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.Properties.Resources.resources
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크 롯데시네마 키오스크 미믹 5번째 db 따로 뽑기.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크 롯데시네마 키오스크 미믹 5번째 db 따로 뽑기.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크.2493CB85.Up2Date
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기.exe
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기.pdb
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.ticket.TicketPurchase.resources
+C:\Users\USER\source\repos\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\영화관 키오스크 CGV 키오스크 미믹 5번째 db 따로 뽑기\obj\Debug\영화관_키오스크_CGV_키오스크_미믹_5번째_db_따로_뽑기.screen.HomeScreen.resources
