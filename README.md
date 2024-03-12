@@ -1,5 +1,1 @@
-
-![alt text](image.png)
-
-1조
-![alt text](image-1.png)
+자바 공부를 해야하는데 다른 공부도 해야할게 많네요.
