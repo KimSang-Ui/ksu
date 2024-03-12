@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\",
+  "WorkspaceRootPath": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\user\\onedrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ticketdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ticketdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\choosedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\choosedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\movie1tm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\movie1tm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\k9315\\documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|c:\\users\\user\\onedrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{653C24A9-C471-43EA-9E6F-7030CFE10D7F}|\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C \uB86F\uB370\uC2DC\uB124\uB9C8 \uD0A4\uC624\uC2A4\uD06C \uAD6C\uD604\uD558\uAE30(\uB514\uC790\uC778 \uC81C\uC678).csproj|solutionrelative:\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C cgv \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +46,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 388,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TicketPurchase.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
-              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
-              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T07:11:07.924Z",
+              "WhenOpened": "2024-03-11T15:24:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeScreen.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:24:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeScreen.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\HomeScreen.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:24:10.63Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketDB.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\TicketDB.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\TicketDB.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\TicketDB.cs",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\TicketDB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:24:05.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChooseDB.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ChooseDB.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ChooseDB.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ChooseDB.cs",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\database\\ChooseDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:24:03.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainScreen.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
               "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs",
-              "ToolTip": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\screen\\MainScreen.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T07:05:07.396Z",
@@ -51,15 +126,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Movie1TM.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\Movie1TM.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\Movie1TM.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\Movie1TM.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\choose\\Movie1TM.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:23:59.924Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
+              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:11:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TicketPurchase.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
               "RelativeDocumentMoniker": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs",
               "ToolTip": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\USER\\OneDrive\\\uBB38\uC11C\\ksu\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\\uC601\uD654\uAD00 \uD0A4\uC624\uC2A4\uD06C CGV \uD0A4\uC624\uC2A4\uD06C \uBBF8\uBBF9 5\uBC88\uC9F8 db \uB530\uB85C \uBF51\uAE30\\ticket\\TicketPurchase.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:58:43.262Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-03-11T06:58:43.262Z"
             }
           ]
         }

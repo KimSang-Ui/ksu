@@ -3,7 +3,7 @@ package org.example;
 import java.io.*;
 
 class SBOX implements Serializable {
-    private String name;
+    transient private String name;
     private int age;
     public SBOX(String name, int age) {
         this.name = name;
@@ -19,16 +19,16 @@ class SBOX implements Serializable {
 }
 public class Main8 {
     public static void main(String[] args) {
-        SBOX sbox1 = new SBOX("감자", 20);
-        SBOX sbox2 = new SBOX("고구마", 30);
+        SBOX sbox1 = new SBOX("감자",20);
+        SBOX sbox2 = new SBOX("고구마",30);
 
-        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("obj.bin"))) {
+        try(ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("obj.bin"))){
             oos.writeObject(sbox1);
             oos.writeObject(sbox2);
-        } catch (Exception e) {
+        }catch (Exception e){
 
         }
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("obj.bin"))) {
+        try(ObjectInputStream ois = new ObjectInputStream(new FileInputStream("obj.bin"))){
             SBOX obj1 = (SBOX) ois.readObject();
             System.out.println(obj1);
             SBOX obj2 = (SBOX) ois.readObject();
@@ -38,4 +38,3 @@ public class Main8 {
         }
     }
 }
-

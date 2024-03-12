@@ -1,5 +1,3 @@
-package ch11;
-
 import java.util.*;
 
 class TreeMapEx1 {
@@ -19,7 +17,7 @@ class TreeMapEx1 {
 
 		Iterator it = map.entrySet().iterator();
 
-		System.out.println("= ï¿½âº»ï¿½ï¿½ï¿½ï¿½ =");
+		System.out.println("= ±âº»Á¤·Ä =");
 		while(it.hasNext()) {
 			Map.Entry entry = (Map.Entry)it.next();
 			int value = ((Integer)entry.getValue()).intValue();
@@ -27,7 +25,7 @@ class TreeMapEx1 {
 		}
 		System.out.println();
 
-		// mapï¿½ï¿½ ArrayListï¿½ï¿½ ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Collectons.sort()ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		// mapÀ» ArrayList·Î º¯È¯ÇÑ ´ÙÀ½¿¡ Collectons.sort()·Î Á¤·Ä
 		Set set = map.entrySet();
 		List list = new ArrayList(set);	// ArrayList(Collection c) 
 		
@@ -36,7 +34,7 @@ class TreeMapEx1 {
 
 		it = list.iterator();
 
-		System.out.println("= ï¿½ï¿½ï¿½ï¿½ Å©ï¿½â°¡ Å« ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ =");		
+		System.out.println("= °ªÀÇ Å©±â°¡ Å« ¼ø¼­·Î Á¤·Ä =");		
 		while(it.hasNext()) {
 			Map.Entry entry = (Map.Entry)it.next();
 			int value = ((Integer)entry.getValue()).intValue();

@@ -6,9 +6,11 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public class MemberRepository {
+
     @Autowired
     SqlSession sqlSession;
-    public void insert() {
+
+    public void insert(){
         sqlSession.insert("member.insert");
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Students\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Students\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Students\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\문서\\git231229\\cs_work\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\Students\\cs_work\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Students\\cs_work\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
