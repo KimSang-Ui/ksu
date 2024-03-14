@@ -16,6 +16,8 @@ public class UserService {
     private final UserRepository userRepository;
 
     public User regist(User user){
+        // 중복 처리...
+        // 해당 되는 email이 있으면 중복 나서 에러 
         User emailUser = userRepository.findByEmail(user.getEmail());
         if(emailUser != null){
             throw new LogicException(ErrorCode.DUPLICATE);
@@ -42,7 +44,7 @@ public class UserService {
 
     public User updateUser(User user){
 
-        User emailUser = userRepository.findByEmail(user.getEmail());
+        User emailUser = userRepository.findMyCustom(user.getEmail());
         if(emailUser == null){
             throw new UsersException(ErrorCode.NOTUPDATEEMAIL);
         }
@@ -54,5 +56,19 @@ public class UserService {
 
         User dbUser = userRepository.save(emailUser);
         return dbUser;
+    }
+
+    public void delete(Long id) {
+        Optional<User> dbUser = userRepository.findById(id);
+        if(dbUser.isEmpty()){
+            throw new UsersException(ErrorCode.NOTFOUND);
+        }
+//        userRepository.deleteById(id);
+        User getUser = dbUser.get();
+        userRepository.delete(getUser);
+    }
+
+    public void delete(){
+        userRepository.deleteAll();
     }
 }

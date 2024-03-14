@@ -1,25 +1,25 @@
 package com.mh.restapi03.users;
 
+
+import com.fasterxml.jackson.annotation.JsonFilter;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 
 import java.time.LocalDateTime;
-import java.util.List;
 
-@Entity
+// User -> AdminUser 복사하겠다..
+// 해당되는 변수가 있어야 됩니다...
+
+@JsonFilter("AdminUser")
 @ToString
 @Getter
 @Setter
-@Builder
-@AllArgsConstructor
-@NoArgsConstructor
-@Table(name = "users")
-@Schema(description = "User Table 에 대한 내용입니다.")
-public class User {
-
+public class AdminUser {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Schema(title = "사용자 ID",description = "table에서 자동으로 생성되는 컬럼입니다.")
@@ -32,7 +32,6 @@ public class User {
     @Column(length = 50, unique = true)
     private String email;
 
-    @JsonIgnore
     private String password;
 
     // @Enumerated(EnumType.ORDINAL) male = 0 , female = 1
@@ -42,5 +41,4 @@ public class User {
 
     @JsonFormat(pattern = "yyyy/MM/dd HH:mm:ss")
     private LocalDateTime wdate;
-
 }
