@@ -3,8 +3,7 @@ package com.mh.restapi03;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties;
 import jakarta.persistence.EntityManager;
-import org.
-		jasypt.encryption.pbe.PooledPBEStringEncryptor;
+import org.jasypt.encryption.pbe.PooledPBEStringEncryptor;
 import org.jasypt.encryption.pbe.config.SimpleStringPBEConfig;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
