@@ -16,7 +16,7 @@ public interface UserRepository extends JpaRepository<User,Long> {
 
     // pagging
     // select * from user where username like '%길동%' or email like '%aaa% limit 0,5'
-    public List<User> findByUsernameContainingOrEmailContaining(String username, String email);
+    public List<User> findByUsernameContainingOrEmailContaining(String username,String email);
 
 
     // JPQL Queydsl
