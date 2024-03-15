@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class MyEncrytor {
 
     //@Value("${jaspyt.encryptor.password}")
-    private String password = "mh1234mh1234mh1234mh1234mh1234mh1234";
+    private String password = "ksu1234ksu1234ksu1234ksu1234ksu1234ksu1234";
 
     @Test
     void name() {
@@ -24,7 +24,7 @@ public class MyEncrytor {
         config.setStringOutputType("base64");
         encryptor.setConfig(config);
 
-        String content = "jdbc:mysql://112.218.211.194:3306/mh?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&serverTimezone=UTC";
+        String content = "jdbc:mysql://localhost:3306/ksu?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&serverTimezone=UTC";
         String encString = encryptor.encrypt(content);
         String decString = encryptor.decrypt(encString);
         System.out.println(String.format("root encString = %s decString = %s", encString, decString));
