@@ -2,7 +2,6 @@ package com.mh.restapi03.users;
 
 import com.mh.restapi03.exception.ErrorCode;
 import com.mh.restapi03.exception.UsersException;
-import com.querydsl.jpa.impl.JPAQueryFactory;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Parameters;
