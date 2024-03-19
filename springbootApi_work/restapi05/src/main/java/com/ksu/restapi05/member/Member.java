@@ -33,7 +33,9 @@ public class Member {
     // USER, ADMIN
     @Enumerated(EnumType.STRING)
     private Role role;
-    @CreatedDate //insert 한시간
+
+    //insert 한시간
+    @CreatedDate 
     private LocalDateTime writeDate;
     @LastModifiedDate
     private LocalDateTime modifyDate;
