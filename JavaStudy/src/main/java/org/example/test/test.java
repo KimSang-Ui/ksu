@@ -1,7 +1,5 @@
 package org.example.test;
 
-import java.util.Scanner;
-
 //public class test {
 //  두수 입력해서 곱하기 출력하기
 //    public static void main(String[] args) {
@@ -15,8 +13,11 @@ import java.util.Scanner;
 //    }
 //}
 //
-public class test {
-    public static void main(String[] args) {
+//public class test {
+//    public static void main(String[] args) {
+//
+//
+
 
 //        n의 배수구하기
 //        Scanner sc = new Scanner(System.in);
@@ -46,19 +47,78 @@ public class test {
 //        for (int i = 0; i <= 100; i++) {
 
 
-//        별로 삼각형 출력하기
+import org.w3c.dom.ls.LSOutput;
 
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        for (int i = 0; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                System.out.print("*");
+import java.util.Scanner;
 
-            }
-            System.out.println();
+//        별로 직각삼각형 출력하기 오른쪽
+//
+//        Scanner scanner = new Scanner(System.in);
+//        int n = scanner.nextInt();
+//        for (int i = 0; i <= n; i++) {
+//            for (int j = 0; j < i; j++) {
+//                System.out.print("*");
+//
+//            }
+//            System.out.println();
+//
+//        }
+//별로 직각삼각형 출력하기 왼쪽
+//        Scanner scanner = new Scanner(System.in);
+//        int n = scanner.nextInt();
+//        for (int i = 0; i <= n; i++) {
+//            for (int j = n; i < j; j--) {
+//                System.out.print(" ");
+//            }
+//            for (int j = 0; j < i; j++) {
+//
+//                System.out.print("*");
+//
+//            }
+//            System.out.println();
+//        }
+//  doA함수 호출로 직각삼각형 별 출력하기
+//public class test {
+//    public static void main(String[] args) {
+//
+//        Scanner scanner = new Scanner(System.in);
+//
+//        int n = scanner.nextInt();
+//        org.example.test.test test = new org.example.test.test();
+//        test.doA(n);
+//
+//
+//    }
+//
+//    public void doA(int n) {
+//
+//        Scanner scanner = new Scanner(System.in);
+//        for (int i = 0; i <= n; i++) {
+//            for (int j = 0; j < i; j++) {
+//                System.out.print("*");
+//
+//            }
+//            System.out.println();
+//        }
+//
+//    }
+//}
+// doB함수 호출로 String형을 int형으로 바꾸기
+public class test {
+    public static void main(String[] args) {
 
-        }
+        test test = new test();
 
-        }
+        test.doB();
 
     }
+
+    private void doB() {
+        String a = "1010";
+        int a1 = Integer.parseInt(a);
+        String b = "010";
+        int b1 = Integer.parseInt(b);
+        System.out.println(a1);
+        System.out.println(b1);
+    }
+}
