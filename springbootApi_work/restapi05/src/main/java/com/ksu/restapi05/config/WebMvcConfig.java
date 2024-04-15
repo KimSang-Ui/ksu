@@ -3,14 +3,9 @@ package com.ksu.restapi05.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
-import org.springframework.security.core.userdetails.User;
-import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.web.SecurityFilterChain;
-import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
 
 @Configuration
@@ -34,32 +29,32 @@ public class WebMvcConfig {
                 req -> req.anyRequest().permitAll() // 모든 부분의 url을 받아들여라
         );
 
-        Exceptionhandling ->
+//        Exceptionhandling ->
 
-        http.addFilter(filter);
+//        http.addFilter(filter);
         //스프링시큐리티에서 필터를 다는 방법
 
 //        인터셉터
-                http.addFilterBefore(filter, UsernamePasswordAuthenticationFilter.class);
+//                http.addFilterBefore(filter, UsernamePasswordAuthenticationFilter.class);
 
 
         return http.build();
     }
-    @Bean
-    public UserDetailsService userDetailsService(){
+//    @Bean
+//    public UserDetailsService userDetailsService(){
 //        유저 관리하는 매니저 클래스
-        InMemoryUserDetailsManager userDetailsManager = new InMemoryUserDetailsManager();
+//        InMemoryUserDetailsManager userDetailsManager = new InMemoryUserDetailsManager();
 //        로그인 할 수 있는 유저 생성
-        UserDetails userDetails = User.withUsername("user")
-                .password(passwordEncoder().encode("1234"))
-                .roles("USER")
-                .build();
+//        UserDetails userDetails = User.withUsername("user")
+//                .password(passwordEncoder().encode("1234"))
+//                .roles("USER")
+//                .build();
         //유저관리 하는 매니저 클래스에 유저 등록
-        userDetailsManager.createUser(userDetails);
+//        userDetailsManager.createUser(userDetails);
 
         //유저 관리하는 매니저 IOC 컨테이너에 등록 -> securityConfig에서 사용
-        return userDetailsManager;
-    }
+//        return userDetailsManager;
+//    }
 
 
 }

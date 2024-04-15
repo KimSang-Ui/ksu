@@ -24,17 +24,15 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
                                  HttpHeaders headers,
                                  HttpStatusCode status,
                                  WebRequest request) {
-
 //        List<FieldError> list = ex.getBindingResult().getFieldErrors();
 //
 //        List<String> errorMessage = new ArrayList<>();
 //        List<String> errorReason = new ArrayList<>();
-//
+//        // email password username
 //        for(FieldError fieldError : list){
 //            System.out.println("fieldError.getField() = " + fieldError.getField());
 //            System.out.println("fieldError.getDefaultMessage() = " + fieldError.getDefaultMessage());
 //            System.out.println("fieldError.getCode() = " + fieldError.getCode());
-//
 //            errorMessage.add(fieldError.getCode());
 //            errorReason.add(fieldError.getField() +" : " + fieldError.getDefaultMessage());
 ////        }
@@ -46,6 +44,7 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         List<String> errorMessage = ex.getBindingResult().getFieldErrors().stream()
                 .map(fieldError -> fieldError.getCode())
                 .collect(Collectors.toList());
+
         List<String> errorReason = ex.getBindingResult().getFieldErrors().stream()
                 .map(fieldError -> fieldError.getField() + " : " + fieldError.getDefaultMessage())
                 .collect(Collectors.toList());
@@ -54,6 +53,7 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
                 .message(errorMessage.toString())
                 .reason(errorReason.toString())
                 .build();
+
         return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(errorResponse);
 
 
